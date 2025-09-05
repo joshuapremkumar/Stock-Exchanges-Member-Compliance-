@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+
 <p align="center">
   <a href="https://github.com/trycompai/comp">
    <img src="https://assets.trycomp.ai/logo.png" alt="Logo" width="10%">
@@ -33,20 +33,14 @@ A compliance framework tool for measuring the overall performance of the Stock E
 
 ### Built With
 
-- [Next.js](https://nextjs.org/?ref=trycomp.ai)
-- [Trigger.dev](https://trigger.dev/?ref=trycomp.ai)
-- [Prisma](https://prisma.io/?ref=trycomp.ai)
-- [Tailwind CSS](https://tailwindcss.com/?ref=trycomp.ai)
-- [Upstash](https://upstash.com/?ref=trycomp.ai)
-- [Vercel](https://vercel.com/?ref=trycomp.ai)
+- [Next.js]
+- [Trigger.dev]
+- [Prisma]
+- [Tailwind CSS]
+- [Upstash]
+- [Vercel]
 
-## Contact us
 
-Contact our founders at hello@trycomp.ai to learn more about how we can help you achieve compliance.
-
-## Stay Up-to-Date
-
-Get access to the cloud hosted version of [Comp AI](https://trycomp.ai).
 
 ## Getting Started
 
@@ -54,7 +48,7 @@ To get a local copy up and running, please follow these simple steps.
 
 ### Prerequisites
 
-Here is what you need to be able to run Comp AI.
+Here is what you need to be able to run this app.
 
 - Node.js (Version: >=20.x)
 - Bun (Version: >=1.1.36)
@@ -284,11 +278,11 @@ bun add -g turbo
 
 ### Docker
 
-Steps to deploy Comp AI on Docker are coming soon.
+Steps to deploy on Docker are coming soon.
 
 ### Vercel
 
-Steps to deploy Comp AI on Vercel are coming soon.
+Steps to deploy on Vercel are coming soon.
 
 ## 📦 Package Publishing
 
