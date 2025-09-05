@@ -26,7 +26,6 @@ better protect our clients and our systems.
 
 ## Please do the following
 
-- E-mail your findings to [security@trycomp.ai](mailto:security@trycomp.ai).
 - Do not run automated scanners on our infrastructure or dashboard. If you wish
   to do this, contact us and we will set up a sandbox for you.
 - Do not take advantage of the vulnerability or problem you have discovered,
@@ -42,8 +41,6 @@ better protect our clients and our systems.
 
 ## What we promise
 
-- We will respond to your report within 3 business days with our evaluation of
-  the report and an expected resolution date,
 - If you have followed the instructions above, we will not take any legal
   action against you in regard to the report,
 - We will handle your report with strict confidentiality, and not pass on your
