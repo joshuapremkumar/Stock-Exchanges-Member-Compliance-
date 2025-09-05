@@ -1,10 +1,9 @@
 # Security
 
-Contact: [security@trycomp.ai](mailto:security@trycomp.ai)
 
 Based on [https://supabase.com/.well-known/security.txt](https://supabase.com/.well-known/security.txt)
 
-At Comp AI, Inc., we consider the security of our systems a top priority. But no
+We consider the security of our systems a top priority. But no
 matter how much effort we put into system security, there can still be
 vulnerabilities present.
 
