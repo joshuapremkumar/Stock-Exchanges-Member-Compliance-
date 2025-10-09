@@ -42,7 +42,7 @@
     "@tanstack/react-table": "^8.21.3",
     "@tiptap/extension-table": "^2.22.3",
     "@tiptap/extension-table-cell": "^2.22.3",
-    "@tiptap/extension-table-header": "^2.22.3",
+    "@tiptap/extension-table-header": "^3.6.6",
     "@tiptap/extension-table-row": "^2.22.3",
     "@trigger.dev/react-hooks": "4",
     "@trigger.dev/sdk": "4",
